@@ -1,0 +1,12 @@
+img.alinear{
+    vertical-align: text-top;
+   
+}
+
+nav {
+    text-align: center;
+    vertical-align: text-top;
+    padding: 50px;
+    box-sizing: content-box;
+}
+
